@@ -25,6 +25,6 @@ As you can see this has several paths that fits the rule of NOT PRIME NUMBERS; 1
 
 --------------------------------------------------------------------------------------------------------------------------------------------
 
-To run the jar file please write java -jar ./PIWORKS.jar < input.txt in the same directory with jar file.
+To run the jar file please write "java -jar ./PIWORKS.jar < input.txt" to console in the same directory with jar file.
 
 Remember to check your java PATH variable whether it is correctly set.
