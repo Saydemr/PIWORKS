@@ -32,7 +32,7 @@ According to above rules the maximum sum of the numbers from top to bottom in be
      4 2 *1
     2 2 2 *1
   
-Though the sum on the left-most arm is 1+6+4 = 11 it is not considered as the deserved path since there are longer path in the there. So
+Though the sum on the left-most arm is 1+6+4 = 11 it is not considered as the deserved path since there is a longer path in the tree. So
 longer path is prior to greater sum.
 
 -----------------------------------------------------------------------------------------------------------------------------------------
