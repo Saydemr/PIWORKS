@@ -1,9 +1,3 @@
-IF YOU HAVE APPLIED TO PIWORKS INTERNSHIP PROGRAM, JUST QUIT THIS REPOSITORY NOW.
-
-PLEASE DO NOT COPY ANY CODE HERE!
-PLEASE DO NOT COPY ANY CODE HERE! PLEASE DO NOT LOOK AT THE LOGIC FLOW EITHER.
-
-VERY INTELLIGENT AND VERY SLOW ALGORITHM TO DO THE FOLLOWING.
 Very intelligent and somewhat slow algorithm to do the following.
 
 You will have an orthogonal triangle input from a file and you need to find the maximum sum of the numbers according to given rules below;
