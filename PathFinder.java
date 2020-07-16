@@ -35,15 +35,15 @@ public class PathFinder {
                   return integerArray[i][j] + path1.maxSum;   // if right is prime go left
               }
               else {                                                                  // if both not prime
-                  if (path1.reach == path2.reach) { // lengths are the same chose max
+                  if (path1.reach == path2.reach) { // lengths are the same choose max
                       this.reach += path1.reach + 1;
                       return integerArray[i][j] + Math.max(path1.maxSum, path2.maxSum);
                   }
-                  else if (path1.reach < path2.reach) { // if path2 longer chose it
+                  else if (path1.reach < path2.reach) { // if path2 longer choose it
                       this.reach += path2.reach + 1;
                       return integerArray[i][j] + path2.maxSum;
                   }
-                  else {                               // if path1 longer chose it
+                  else {                               // if path1 longer choose it
                       this.reach += path1.reach +1;
                       return integerArray[i][j] + path1.maxSum;
                   }
